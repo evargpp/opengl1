@@ -1,1 +1,1 @@
-"# opengl1" 
+![Logo](./team-logo.webp)
