@@ -1,1 +1,1 @@
-![Logo](./team-logo.webp)
+![Logo](./team-logo.jpg)
